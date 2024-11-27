@@ -2,18 +2,115 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 80%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float3 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 20%
+    right: 2%
+  &-3
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: -13%
+    right: 5%
 
+.banner-principal
+  &__img
+    padding-bottom: 0px!important
+    padding-top:1em!important
+    @media (min-width: 576px)
+      align-self: end
+  &__row &__img
+    @media (min-width: 576px)
+      padding-right: 0!important
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(120px)
 
   100%
-    transform: translateY(0px)
+    transform: translateY(80px)
+@keyframes float2
+  0%
+    transform: translateY(98px)
+
+  100%
+    transform: translateY(80px)
+@keyframes float3
+  0%
+    transform: translateY(100px)
+
+  100%
+    transform: translateY(80px)
+
+.banner-principal .tarjeta 
+  background-color: #7C7A48
+  background-size: cover
+  background-position: center
+
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner-interno.png) !important
+
+.blue_icon
+  background: #B5E6F7
+  background: linear-gradient(90deg, #B5E6F7 100%, #dae5e9 35%, #131F32#FFFFFF 100%)
+  display: inline-block
+  color: #fff
+  padding: 5px 20px
+  position: relative
+  color: black
+  margin-left: 0.5em
+  &:after
+    content: url(../assets/curso/temas/tema1/img1.svg)
+    position: absolute
+    right: 96%
+    top: -8px
+
+.fnd
+  background-image: url(../assets/curso/temas/tema1/img5.png)
+  background-repeat: no-repeat
+  background-size: cover
+  padding: 1.2em
+  border-radius: 25px
+.fnd-2
+  background-image: url(../assets/curso/temas/tema1/img22.png)
+  background-repeat: no-repeat
+  background-size: contain
+  padding: 1.5em
+  background-position: center
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FFD503
+
+.tarjeta.acordeonA
+  background-color: #F5F5F5
+
+.acordion__accion__btn--a
+  background-color: #48C1EC !important
+
+.fa-minus:before 
+  background-color: #FFD503
+  padding: .6em
+  border-radius: 50px
+
+ul.mt-0
+  list-style-type: none
+
+ul.mt-0 li 
+  position: relative
+  padding-left: 1.5em
+
+ul.mt-0 li::before 
+  content: url('../assets/curso/temas/tema1/img15.svg')
+  position: absolute
+  left: 0
+  top: 0em
+  width: 16px
+  height: 16px
+
+@media (min-width:768px) and (max-width:1024px) 
+  .row.justify-content-center.my-3 .col-xl-10.col-lg-12.align-content-center
+    .row.justify-content-center.my-3.fnd-2 .col-lg-5.col-md-8.align-content-center
+      img 
+        height: 410px 

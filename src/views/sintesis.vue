@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A continuación, se ofrece una visión general sobre técnicas de hidroterapia y turismo de bienestar. Se comienza destacando la importancia de la hidroterapia, que abarca diversas técnicas, como la balneoterapia y la talasoterapia, clasificadas según el tipo de agua utilizada y sus aplicaciones terapéuticas. También, estos tratamientos se llevan a cabo en centros de salud y bienestar, donde se busca promover la relajación y mejorar la salud. Además, en el contexto del turismo de bienestar, dichos centros atraen a visitantes que buscan experiencias revitalizantes. Por último, se aborda el <em>marketing</em> hidrotermal, fundamental para destacar las ofertas de estos espacios, enfocándose en resaltar sus beneficios únicos y atraer a un público interesado en el autocuidado.
 
     .row.justify-content-center
       .col-lg-10.mb-5
