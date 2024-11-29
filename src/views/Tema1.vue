@@ -247,7 +247,7 @@
                 h3.mb-0 Terapias en piscina
             p.my-3 las piscinas son estanques artificiales con instalaciones de diferentes formas y tamaños, varían desde los tanques individuales, hasta las de uso colectivo recreativo o terapéutico como es el caso de la piscina lúdica, en la cual se encuentran muchos tipos de chorros, a niveles diferentes por ejemplo en el cuello de pie, pierna, muslo, glúteo, espalda baja y media y chorros altos denominados como los cuello de cisne o cascadas de diferentes grosores, que manejan la espalda y las extremidades superiores.
             p.my-3 En las piscinas se pueden combinar diversas técnicas que se basan en las leyes o principios físicos del agua, como es el caso de la hidrocinesiterapia, a través de la cual se realizan ejercicios dentro de la misma, junto a otras más recientes como: el Watsu y el Ai chi, terapias de relajación que permiten un equilibrio entre el cuerpo y las emociones a través del agua.
-          .col-xl-7.col-md-4
+          .col-xl-6.col-md-4
             img.my-3(src='@/assets/curso/temas/tema1/img21.png', alt='Imagen decorativa')
 
     h5.blue_icon.my-3(data-aos="fade-left") Balneación con movilización de agua
