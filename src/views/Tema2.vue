@@ -37,7 +37,7 @@
         .row.justify-content-center.my-3
           .col-lg-5.me-0.col-md-6.pe-0
             img.h-100(src="@/assets/curso/temas/tema2/img2.png", alt="alt")
-          .col-lg-7.ms-0.align-content-center(style="background: #DAFCF7; padding: 2em")
+          .col-lg-7.ms-0.align-content-center(style="background: #DCF5F5; padding: 2em")
             p Catalogados como centros de salud y bienestar, en los que se utilizan los elementos que componen el medio marino como las algas, lodos marinos, arena, clima marino y la radiación solar, a manera preventiva y /o curativa.
 
         p.my-3 Dentro de sus instalaciones los usuarios podrán disfrutar tratamientos de psamoterapia, helioterapia, hidroterapia, envolturas con algas y lodos marinos y en las playas aledañas al centro ejercicios y otros tipos de técnicas para el aprovechamiento del clima marino.

@@ -131,7 +131,7 @@
         .row.justify-content-center.my-3
           .col-lg-5.me-0.col-md-6.pe-0
             img.h-100(src="@/assets/curso/temas/tema1/img13.png", alt="alt")
-          .col-lg-7.ms-0.align-content-center(style="background: #DAFCF7; padding: 2em")
+          .col-lg-7.ms-0.align-content-center(style="background: #DCF5F5; padding: 2em")
             p consisten en la aplicación de agua a través de la utilización de un paño o guante bien escurrido, se aplica sobre la piel sin ejercer presión durante 30 a 45 segundos por zona. Estos lavados pueden realizarse en todo el cuerpo o en una región específica. Su acción es estimulante a nivel vascular y disminuye el cansancio al generar sedación. La única contraindicación es para las personas con hipersensibilidad a los cambios de temperatura.
         
         .row.mt-3.mb-3.align-items-center(data-aos="fade-left")
@@ -141,7 +141,7 @@
             h3.mb-0 Afusiones o chorros
 
         .row.justify-content-center.my-3
-          .col-lg-7.me-0.align-content-center(style="background: #DAFCF7; padding: 2em")
+          .col-lg-7.me-0.align-content-center(style="background: #BAEBEB; padding: 2em")
             p en esta técnica se utiliza el agua a manera de chorro, pero sin presión, se deja caer sobre la zona corporal a tratar y su temperatura y duración dependen del estado del usuario. Los chorros se pueden utilizar en forma de abanico o de lluvia y percusión, según el efecto deseado. Las indicaciones principales de este tipo de baños son los trastornos de la circulación, dolores articulares y alteraciones del metabolismo.
           .col-lg-5.ms-0.col-md-6.ps-0
             img.h-100(src="@/assets/curso/temas/tema1/img13.png", alt="alt")
@@ -198,7 +198,7 @@
           li
             span <b>Chorro manual subacuático:</b>  se utiliza una tina como base de la técnica, el usuario se sumerge dentro de la misma y el terapeuta proyecta un chorro de agua a través de una manguera, realizando hidromasaje o masaje con agua dentro de esta. El agua puede ser caliente o fría y la presión del chorro puede variar dependiendo si el masaje se realiza de forma manual operado por el terapeuta o de forma automática por el equipo.
 
-        .bloque-texto-g.p-3.p-sm-4.p-md-5(style="background: #49AB9B")
+        .bloque-texto-g.p-3.p-sm-4.p-md-5(style="background: #3A8F8F")
           .bloque-texto-g__img(
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img18.png')})`}"
             )
@@ -267,7 +267,7 @@
         .row.justify-content-center.my-3
           .col-lg-4.me-0.col-md-6.pe-0
             img.h-100(src="@/assets/curso/temas/tema1/img24.png", alt="alt")
-          .col-lg-8.ms-0.align-content-center(style="background: #DAFCF7; padding: 2em")
+          .col-lg-8.ms-0.align-content-center(style="background: #DCF5F5; padding: 2em")
             p En la naturaleza se encuentran elementos derivados geológicamente que brindan beneficios a la salud del cuerpo humano y a su vez le aportan bienestar, se relacionan con el agua ya sea porque pertenecen a esta, como es el caso de las algas o porque se mezclan con la misma en el caso de las arcillas y peloides.
 
 
