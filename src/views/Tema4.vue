@@ -48,9 +48,9 @@
             img.my-3(src="@/assets/curso/temas/tema4/img1.png")
     
     .row.justify-content-center.my-3  
-      .col-lg-5.col-md-8.align-content-center
+      .col-lg-5.col-md-8.align-content-center.order-lg-1.order-md-2
         img.my-3(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
-      .col-lg-7.align-content-center
+      .col-lg-7.align-content-center.order-lg-2.order-md-1
         p.my-3 El <em>marketing</em> hidrotermal está evolucionando gracias a las innovaciones tecnológicas y la creciente demanda de productos orientados al bienestar. Entre las principales novedades, destaca el uso de la Inteligencia Artificial (IA) para personalizar campañas publicitarias y ofrecer experiencias inmersivas mediante la Realidad Aumentada (AR) y la Realidad Virtual (VR). 
         p.my-3 La tendencia actual se centra en un <em>marketing</em> más personalizado, basado en datos y dirigido a consumidores interesados en la salud. Además, el <em>marketing</em> de voz y la automatización de procesos contribuyen a optimizar la promoción de estos productos, ampliando su alcance a nivel global.
 

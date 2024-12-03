@@ -144,7 +144,7 @@
           .col-lg-7.me-0.align-content-center(style="background: #BAEBEB; padding: 2em")
             p en esta técnica se utiliza el agua a manera de chorro, pero sin presión, se deja caer sobre la zona corporal a tratar y su temperatura y duración dependen del estado del usuario. Los chorros se pueden utilizar en forma de abanico o de lluvia y percusión, según el efecto deseado. Las indicaciones principales de este tipo de baños son los trastornos de la circulación, dolores articulares y alteraciones del metabolismo.
           .col-lg-5.ms-0.col-md-6.ps-0
-            img.h-100(src="@/assets/curso/temas/tema1/img13.png", alt="alt")
+            img.h-100(src="@/assets/curso/temas/tema1/img14.png", alt="alt")
 
         .row.mt-3.mb-3.align-items-center(data-aos="fade-left")
           .col-auto
@@ -257,11 +257,19 @@
     .row.justify-content-center.my-3
       .col-xl-10.col-lg-12.align-content-center
         .row.justify-content-center.my-3.fnd-2
-          .col-lg-5.col-md-8.align-content-center
-            img(style="border-radius: 25px")(src='@/assets/curso/temas/tema1/img23.png', alt='Sauna')
-          .col-lg-5.align-content-center.my-3(style="background: #E6E9EC; border-radius: 20px; padding: 2em")
-            p.text-center recinto en el que las paredes internas se encuentran cubiertas con una madera especial, en este se genera calor seco entre los 40 y 100 °C, la idea de la técnica es que el usuario que ingrese aumente su temperatura corporal y logre la sudoración y eliminación de toxinas, debe alternarse con duchas de agua fría con el fin de no generar fatiga o deshidratación. En general sus efectos sobre el organismo obedecen a su acción térmica, ejercitando el sistema cardiovascular, respiratorio, intestinal y nervioso.   
-
+          SlyderF.custom(columnas="col-lg-6 col-md-6")
+            .row 
+              .col
+                img.mx-0(style="border-radius: 25px")(src='@/assets/curso/temas/tema1/img23.png', alt='Sauna')
+            .row  
+              .col
+                p(style="background: #E6E9EC; border-radius: 20px; padding: 2em").text-center recinto en el que las paredes internas se encuentran cubiertas con una madera especial, en este se genera calor seco entre los 40 y 100 °C, la idea de la técnica es que el usuario que ingrese aumente su temperatura corporal y logre la sudoración y eliminación de toxinas, debe alternarse con duchas de agua fría con el fin de no generar fatiga o deshidratación. En general sus efectos sobre el organismo obedecen a su acción térmica, ejercitando el sistema cardiovascular, respiratorio, intestinal y nervioso.   
+            .row
+              .col
+                img(style="border-radius: 25px")(src='@/assets/curso/temas/tema1/img30.png', alt='Turco')
+            .row
+              .col
+                p(style="background: #E6E9EC; border-radius: 20px; padding: 2em").text-center a diferencia de la sauna, el baño turco emite un vapor o calor húmedo a temperatura muy elevada resultante de la evaporación del agua, sus instalaciones son de baldosa en las paredes internas y posee escalones para que los usuarios reciban diferentes temperaturas. Su uso ha sido muy común en afecciones del sistema respiratorio, sobre todo al añadir plantas como el eucalipto por sus propiedades descongestivas, al generador de vapor.
         p.my-3 En el área de la estética estas técnicas se pueden combinar o asociar con facilidad antes, durante o después de los protocolos establecidos para tratar las alteraciones de la estética facial y corporal, por ejemplo, si de penetrar principios activos de los cosméticos se trata a través de la vasodilatación en los tejidos, disminuir la ansiedad, mejorar la circulación, hidratar la piel y coadyuvar en procesos de pérdida de peso o reducción de medidas.
 
         .row.justify-content-center.my-3
@@ -312,25 +320,25 @@
       .col-lg-8
         SlyderF.custom(columnas="col-lg-6 col-md-6")
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Procesos inflamatorios.</b>
+            p.mb-0.text-center <b>Procesos inflamatorios.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Espasmos y contracturas musculares.</b>
+            p.mb-0.text-center <b>Espasmos y contracturas musculares.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Rigidez articular.</b>
+            p.mb-0.text-center <b>Rigidez articular.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Dificultad en la motricidad.</b>
+            p.mb-0.text-center <b>Dificultad en la motricidad.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Dolor y edema.</b>
+            p.mb-0.text-center <b>Dolor y edema.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Enfermedades articulares degenerativas.</b>
+            p.mb-0.text-center <b>Enfermedades articulares degenerativas.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Postoperatorio quirúrgico.</b>
+            p.mb-0.text-center <b>Postoperatorio quirúrgico.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Paniculopatia edemato fibro esclerosa (PEFE).</b>
+            p.mb-0.text-center <b>Paniculopatia edemato fibro esclerosa (PEFE).</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Sobrepeso.</b>
+            p.mb-0.text-center <b>Sobrepeso.</b>
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #EBF8FC; align-content: center")
-            p.text-center <b>Flacidez cutánea.</b>
+            p.mb-0.text-center <b>Flacidez cutánea.</b>
 
     b.my-3 Las contraindicaciones de la hidroterapia siempre serán relativas, ya que dependen de las condiciones de salud del individuo y de la técnica seleccionada, en general son:
     
