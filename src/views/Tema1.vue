@@ -255,23 +255,24 @@
     p.my-3 Técnicas que no son directamente de hidroterapia, pero que se han utilizado al lado de esta desde la antigüedad, por su relación con la misma, ya que el agua se utiliza antes, durante o después de su aplicación.
 
     .row.justify-content-center.my-3
-      .col-xl-10.col-lg-12.align-content-center
+      .col-lg-10.align-content-center
         .row.justify-content-center.my-3.fnd-2
-          SlyderF.custom(columnas="col-lg-6 col-md-6")
-            .row 
-              .col
-                img.mx-0(style="border-radius: 25px")(src='@/assets/curso/temas/tema1/img23.png', alt='Sauna')
-            .row  
-              .col
-                p(style="background: #E6E9EC; border-radius: 20px; padding: 2em").text-center recinto en el que las paredes internas se encuentran cubiertas con una madera especial, en este se genera calor seco entre los 40 y 100 °C, la idea de la técnica es que el usuario que ingrese aumente su temperatura corporal y logre la sudoración y eliminación de toxinas, debe alternarse con duchas de agua fría con el fin de no generar fatiga o deshidratación. En general sus efectos sobre el organismo obedecen a su acción térmica, ejercitando el sistema cardiovascular, respiratorio, intestinal y nervioso.   
-            .row
-              .col
-                img(style="border-radius: 25px")(src='@/assets/curso/temas/tema1/img30.png', alt='Turco')
-            .row
-              .col
-                p(style="background: #E6E9EC; border-radius: 20px; padding: 2em").text-center a diferencia de la sauna, el baño turco emite un vapor o calor húmedo a temperatura muy elevada resultante de la evaporación del agua, sus instalaciones son de baldosa en las paredes internas y posee escalones para que los usuarios reciban diferentes temperaturas. Su uso ha sido muy común en afecciones del sistema respiratorio, sobre todo al añadir plantas como el eucalipto por sus propiedades descongestivas, al generador de vapor.
-        p.my-3 En el área de la estética estas técnicas se pueden combinar o asociar con facilidad antes, durante o después de los protocolos establecidos para tratar las alteraciones de la estética facial y corporal, por ejemplo, si de penetrar principios activos de los cosméticos se trata a través de la vasodilatación en los tejidos, disminuir la ansiedad, mejorar la circulación, hidratar la piel y coadyuvar en procesos de pérdida de peso o reducción de medidas.
-
+          .col-xl-5.col-lg-5.col-md-8.align-content-center.my-3
+            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+              .indicador--hover(v-if="indicadorTarjetaFlip")
+              .tarjeta-flip__contenedor
+                .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img23.png')})`}")
+                .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
+                  p.text-dark.mb-0.text-center recinto en el que las paredes internas se encuentran cubiertas con una madera especial, en este se genera calor seco entre los 40 y 100 °C, la idea de la técnica es que el usuario que ingrese aumente su temperatura corporal y logre la sudoración y eliminación de toxinas, debe alternarse con duchas de agua fría con el fin de no generar fatiga o deshidratación. En general sus efectos sobre el organismo obedecen a su acción térmica, ejercitando el sistema cardiovascular, respiratorio, intestinal y nervioso. 
+          .col-xl-5.col-lg-5.col-md-8.align-content-center.my-3
+            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+              .indicador--hover(v-if="indicadorTarjetaFlip")
+              .tarjeta-flip__contenedor
+                .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img30.png')})`}")
+                .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
+                  p.text-dark.mb-0.text-center En el área de la estética estas técnicas se pueden combinar o asociar con facilidad antes, durante o después de los protocolos establecidos para tratar las alteraciones de la estética facial y corporal, por ejemplo, si de penetrar principios activos de los cosméticos se trata a través de la vasodilatación en los tejidos, disminuir la ansiedad, mejorar la circulación, hidratar la piel y coadyuvar en procesos de pérdida de peso o reducción de medidas.
+    
+  
         .row.justify-content-center.my-3
           .col-lg-4.me-0.col-md-6.pe-0
             img.h-100(src="@/assets/curso/temas/tema1/img24.png", alt="alt")
