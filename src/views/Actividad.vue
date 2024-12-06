@@ -16,7 +16,7 @@ export default {
       tema: 'Nombre del componente formativo',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija una opción según corresponda.',
+        '<b> Objetivo:</b> lea cada enunciado referente a los temas desarrollados en el componente formativo y elija una opción según corresponda.',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -69,7 +69,11 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Un spa o balneario.', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Un <em>spa</em> o balneario.',
+              esCorrecta: true,
+            },
             { id: 'b', texto: 'Un gimnasio.', esCorrecta: false },
             {
               id: 'c',
@@ -131,7 +135,7 @@ export default {
         },
         {
           id: 6,
-          texto: '¿Qué tipo de terapia se puede realizar en un spa?',
+          texto: '¿Qué tipo de terapia se puede realizar en un <em>spa</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -233,7 +237,11 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Surf y deportes extremos.', esCorrecta: false },
+            {
+              id: 'a',
+              texto: '<em>Surf</em> y deportes extremos.',
+              esCorrecta: false,
+            },
             {
               id: 'b',
               texto: 'Paseos en bicicleta por la ciudad.',
@@ -264,7 +272,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Desarrollo de spas y centros de hidroterapia.',
+              texto: 'Desarrollo de <em>spas</em> y centros de hidroterapia.',
               esCorrecta: true,
             },
             {
@@ -314,7 +322,7 @@ export default {
             { id: 'b', texto: 'No es relevante.', esCorrecta: false },
             {
               id: 'c',
-              texto: 'Solo es importante en resorts de lujo.',
+              texto: 'Solo es importante en <em>resorts</em> de lujo.',
               esCorrecta: false,
             },
             {
@@ -333,7 +341,7 @@ export default {
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'óvenes aventureros.', esCorrecta: false },
+            { id: 'a', texto: 'Jóvenes aventureros.', esCorrecta: false },
             {
               id: 'b',
               texto: 'Personas en busca de relajación y salud.',

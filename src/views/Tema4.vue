@@ -27,7 +27,7 @@
               .col-lg-3.align-content-center
                 p.my-1 <b>Precio:</b>
               .col-lg-9
-                p.my-1 es importante establecer estándares de mejoramiento continuo para la optimización de los servicios, de la calidad depende el éxito y rentabilidad del negocio teniendo como premisa la satisfacción del cliente.
+                p.my-1 Relacionado con la calidad de los servicios ofertados, recurso humano disponible e instalaciones locativas del centro de hidroterapia.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Innovación:</b>

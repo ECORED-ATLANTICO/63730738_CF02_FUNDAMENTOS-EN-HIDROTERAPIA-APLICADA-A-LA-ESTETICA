@@ -1,9 +1,9 @@
 export default {
   global: {
     componenteFormativo:
-      'Técnicas de hidroterapia aplicadas en el turismo de bienestar.',
+      'Técnicas de hidroterapia aplicadas en el turismo de bienestar',
     descripcionCurso:
-      'Las técnicas de hidroterapia en el turismo de bienestar, como la balneoterapia, talasoterapia y crenoterapia, utilizan agua en diversas formas para promover la relajación y mejorar la salud física y emocional. Los Spas y balnearios ofrecen tratamientos especializados que alivian el estrés, mejoran la circulación y brindan beneficios estéticos, convirtiéndose en destinos populares para el bienestar.',
+      'Las técnicas de hidroterapia en el turismo de bienestar, como la balneoterapia, talasoterapia y crenoterapia, utilizan agua en diversas formas para promover la relajación y mejorar la salud física y emocional. Los <em>spas</em> y balnearios ofrecen tratamientos especializados que alivian el estrés, mejoran la circulación y brindan beneficios estéticos, convirtiéndose en destinos populares para el bienestar.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -116,7 +116,7 @@ export default {
     {
       tema: '<em>Marketing</em> hidrotermales.',
       referencia: 'CEAC (2017). Técnicas hidrotermales.',
-      tipo: 'Página web',
+      tipo: 'Página <em>web</em>',
       link:
         'https://www.ceac.es/blog/que-son-y-para-que-sirven-las-tecnicas-hidrotermales',
     },
@@ -158,10 +158,10 @@ export default {
     },
     {
       termino: 'Sedación',
-      significado: 'acción de calmar o disminuir la excitación nerviosa',
+      significado: 'acción de calmar o disminuir la excitación nerviosa.',
     },
     {
-      termino: 'Spa',
+      termino: '<em>Spa</em>',
       significado:
         'centro dedicado al bienestar donde se ofrecen servicios como masajes, hidroterapia, tratamientos faciales y corporales, entre otros.',
     },
@@ -180,7 +180,7 @@ export default {
     },
     {
       referencia:
-        'Ergofisa. (2016). De Material de Apoyo a la Asignatura Kinesiterapia. ',
+        'Ergofisa. (2016). De material de apoyo a la asignatura kinesiterapia. ',
       link:
         'http://www.ergofisa.com/docencia/Hidroterapia.cap%2012.%202008.pdf ',
     },
@@ -196,7 +196,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'SALUDTERAPIA. (2016). Hidroterapia. ',
+      referencia: 'Saludterapia. (2016). Hidroterapia. ',
       link: 'http://www.saludterapia.com/glosario/d/40-hidroterapia.html',
     },
     {
@@ -219,7 +219,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro para el desarrollo agroecológico Y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -227,7 +227,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Diana cristina muñoz urrea',
+          nombre: 'Diana Cristina Muñoz Urrea',
           cargo: 'Experta temática',
           centro: 'Centro agroindustrial - Regional Quindío.',
         },
