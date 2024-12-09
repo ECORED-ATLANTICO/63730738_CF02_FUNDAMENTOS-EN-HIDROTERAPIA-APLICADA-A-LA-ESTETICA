@@ -140,23 +140,23 @@
                 th(rowspan="6")(style="background: #B5E6F7; border: 1px solid black") Centros de salud y bienestar
                 td(rowspan="3")(style="background: #48C1EC; border: 1px solid black") Ofertas basadas en el agua
                 td(style="background: white; border: 1px solid black") Balnearios
-                td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de agua mineromedicinal.<br>Se requiere la presencia de personal médico
+                td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de agua mineromedicinal.<br>Se requiere la presencia de personal médico.
               tr 
                 td(style="background: white; border: 1px solid black") Centros de talasoterapia
-                td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de agua de mar, clima marino, algas, arena, sol
+                td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de agua de mar, clima marino, algas, arena, sol.
               tr
-                td(style="background: white; border: 1px solid black") Centros <em>Spa</em> y <em>Wellness.</em>S
-                td(style="background: white; border: 1px solid black") Tratamiento basado en el uso de agua común y terapias complementarias de relajación y bienestar
+                td(style="background: white; border: 1px solid black") Centros <em>Spa</em> y <em>Wellness.</em>
+                td(style="background: white; border: 1px solid black") Tratamiento basado en el uso de agua común y terapias complementarias de relajación y bienestar.
               tr
                 td(rowspan="3")(style="background: #48C1EC; border: 1px solid black") Ofertas no basadas en el uso del agua
                 td(style="background: white; border: 1px solid black") Centros de belleza
-                td(style="background: white; border: 1px solid black") Tratamientos de embellecimiento corporal
+                td(style="background: white; border: 1px solid black") Tratamientos de embellecimiento corporal.
               tr  
                 td(style="background: white; border: 1px solid black") Centros <em>Mind and Spirit</em>
-                td(style="background: white; border: 1px solid black") Tratamientos de recuperación física, mental y emocional, terapias alternativas complementarias
+                td(style="background: white; border: 1px solid black") Tratamientos de recuperación física, mental y emocional, terapias alternativas complementarias.
               tr
                 td(style="background: white; border: 1px solid black") Oferta singular
-                td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de productos locales, vino, café, cacao
+                td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de productos locales, vino, café, cacao.
         p Fuente: SENA (2014).
               
 </template>

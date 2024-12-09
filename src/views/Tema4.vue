@@ -27,12 +27,12 @@
               .col-lg-3.align-content-center
                 p.my-1 <b>Precio:</b>
               .col-lg-9
-                p.my-1 Relacionado con la calidad de los servicios ofertados, recurso humano disponible e instalaciones locativas del centro de hidroterapia.
+                p.my-1 relacionado con la calidad de los servicios ofertados, recurso humano disponible e instalaciones locativas del centro de hidroterapia.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Innovación:</b>
               .col-lg-9
-                p.my-1 cómo se describe antes, la competencia es cada vez mayor, por lo tanto, los servicios ofrecidos deben contar con un sello de innovación que genere diferencia en este mercado.
+                p.my-1 como se describe antes, la competencia es cada vez mayor, por lo tanto, los servicios ofrecidos deben contar con un sello de innovación que genere diferencia en este mercado.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Crecimiento y desarrollo sostenible:</b>
