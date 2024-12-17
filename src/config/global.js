@@ -91,7 +91,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/63730738_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -115,7 +115,8 @@ export default {
     },
     {
       tema: '<em>Marketing</em> hidrotermales.',
-      referencia: 'CEAC (2017). Técnicas hidrotermales.',
+      referencia:
+        'CEAC (2017). ¿Qué son y para que sirven las técnicas hidrotermales?',
       tipo: 'Página <em>web</em>',
       link:
         'https://www.ceac.es/blog/que-son-y-para-que-sirven-las-tecnicas-hidrotermales',
@@ -186,7 +187,7 @@ export default {
     },
     {
       referencia:
-        'InMedicina. (2012). De Técnicas de aplicación en hidroterapia: baños, chorros, duchas y envolturas.',
+        'Mapfe. (2012). De Técnicas de hidroterapia: baños, chorros, duchas y envolturas.',
       link:
         'https://www.salud.mapfre.es/cuerpo-y-mente/belleza-y-salud/cuerpo-y-mentehidroterapia-todas-las-tecnicas/',
     },
@@ -219,7 +220,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -227,25 +228,28 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Diana Cristina Muñoz Urrea',
+          nombre: 'Diana Corredor Ruiz',
           cargo: 'Experta temática',
-          centro: 'Centro agroindustrial - Regional Quindío.',
+          centro:
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
-          nombre: 'Kennia Andrea Peña Barrera',
+          nombre: 'Zulma Yurany Vianchá Rodríguez',
           cargo: 'Asesora pedagógica',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Janet Lucia Villalba Triana',
           cargo: 'Asesora pedagógica',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -256,19 +260,19 @@ export default {
           nombre: 'Hernando Junior Strusberg Perez',
           cargo: 'Diseñador <em>web</em>',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Rafael Bladimir Pérez Meriño',
           cargo: 'Desarrollador <em>fullstack</em>',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -279,25 +283,25 @@ export default {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },

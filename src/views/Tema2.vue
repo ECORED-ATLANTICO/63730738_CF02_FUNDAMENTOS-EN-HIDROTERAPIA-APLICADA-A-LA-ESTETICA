@@ -22,7 +22,7 @@
         .row.justify-content-center.my-3  
           .col-lg-8.align-content-center
             p.my-3 Están considerados como centros en los cuales se emplean tratamientos para la salud y el bienestar basados en la utilización del agua mineromedicinal, pueden contar opcionalmente con hotel dentro de sus instalaciones.
-            p.my-3 En Europa se caracterizan por disponer de agua mineromedicinal aplicada con técnicas hidrotermales (agua termal con temperatura superior 4°C de la media anual de la zona) y técnicas complementarias, debe contar con la presencia de personal de salud; médico, terapeutas, entre otros, (Mourelle,y Cols, 2009, p. 58), en Colombia no existe aún una normativa que los regule y/o clasifique, por esta razón se consideran más como centros termales.
+            p.my-3 En Europa se caracterizan por disponer de agua mineromedicinal aplicada con técnicas hidrotermales (agua termal con temperatura superior 4 °C de la media anual de la zona) y técnicas complementarias, debe contar con la presencia de personal de salud; médico, terapeutas, entre otros, (Mourelle, y Cols, 2009, p. 58), en Colombia no existe aún una normativa que los regule y/o clasifique, por esta razón se consideran más como centros termales.
             p.my-3 Los tratamientos más comunes en el balneario están encaminados a la cura de enfermedades que se pueden tratar con el uso de agua mineromedicinal, como las asociadas con el reumatismo, aparato digestivo y sistema tegumentario o piel.
           .col-lg-4.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')
@@ -60,7 +60,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-        p.mb-0 En materia de <em>spa</em>, existen diversas clasificaciones vinculadas a las asociaciones que se han creado en torno de estos, como es el caso de la Asociación internacional de <em>spa</em> (ISPA); la cual los clasifica en: <em>Day spa</em>, destinación <em>spa</em>, - <em>medical spa</em>, <em>Mineral spring spa, Resort/ hotel spa</em>, Club <em>spa, Cruise ship spa</em>. Por su parte la Asociación de <em>spa</em> Norteamericana (<em>The spa Association</em>), los clasifica así: <em>Beauty spa</em>, <em>Hotel spa</em>, <em>Fitness spa, Wellness</em> <em>spa</em>, <em>Medical spa</em>.
+        p.mb-0 En materia de <em>spa</em>, existen diversas clasificaciones vinculadas a las asociaciones que se han creado en torno de estos, como es el caso de la Asociación Internacional de <em>spa</em> (ISPA); la cual los clasifica en: <em>Day spa</em>, destinación <em>spa</em>, - <em>medical spa</em>, <em>Mineral spring spa, Resort/ hotel spa</em>, Club <em>spa, Cruise ship spa</em>. Por su parte la Asociación de <em>spa</em> Norteamericana (<em>The spa Association</em>), los clasifica así: <em>Beauty spa</em>, <em>Hotel spa</em>, <em>Fitness spa, Wellness</em> <em>spa</em>, <em>Medical spa</em>.
 
     p.my-3 Otra clasificación es la de Freire & Mourelle 2005, expertos españoles quienes los ordenan de la siguiente forma: <em>spa</em> urbano, <em>spa</em> destino, <em>spa fitness</em>, <em>spa</em> hotel, <em>spa</em> terapéutico. (Mourelle y Cols, 2009, p. 65). Se describen a continuación los más comunes:
 

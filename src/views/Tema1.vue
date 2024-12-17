@@ -19,7 +19,7 @@
 
         .row.justify-content-center.my-3  
           .col-xl-7.col-lg-7.align-content-center
-            p Para que cumplan con esta característica, el agua debe tener una temperatura por debajo de los 33°C, su tiempo de aplicación varía de acuerdo con cuanto más fría se encuentre el agua, se realizarán aplicaciones de 5´ a 30” segundos, según el caso, sus acciones vasoconstrictoras tienen un efecto analgésico importante y estimulante de las funciones orgánicas. Por lo anterior, sus principales indicaciones serán: disminución de dolor, inflamación, edema post trauma, espasmos musculares y sus contraindicaciones irán de acuerdo con la condición específica del usuario: problemas cardiovasculares, reumatismo, cistitis, colitis, diarrea.
+            p Para que cumplan con esta característica, el agua debe tener una temperatura por debajo de los 33 °C, su tiempo de aplicación varía de acuerdo con cuanto más fría se encuentre el agua, se realizarán aplicaciones de 5´ a 30” segundos, según el caso, sus acciones vasoconstrictoras tienen un efecto analgésico importante y estimulante de las funciones orgánicas. Por lo anterior, sus principales indicaciones serán: disminución de dolor, inflamación, edema post trauma, espasmos musculares y sus contraindicaciones irán de acuerdo con la condición específica del usuario: problemas cardiovasculares, reumatismo, cistitis, colitis, diarrea.
           .col-xl-5.col-lg-5.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
         
@@ -33,16 +33,16 @@
           .col-lg-5.col-md-8.align-content-center.order-lg-1.order-md-2
             img.my-3(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
           .col-lg-7.align-content-center.order-lg-2.order-md-1
-            p Para que cumplan con esta característica la temperatura del agua debe utilizarse desde los 37- 40°C, o a tolerancia del umbral del usuario con un límite de 45°C, su tiempo de aplicación varía según la técnica entre 10´ a 20´ minutos, sus acciones vasodilatadoras generan efectos analgésicos, relajantes y de sedación, por lo cual están indicadas en contracturas y espasmos musculares, estrés, cansancio, insomnio y afecciones reumáticas. Estarán contraindicadas en personas con insuficiencia venosa, lesiones agudas inflamatorias y mujeres embarazadas en las que la temperatura no debe superar los 37,8°C.
+            p Para que cumplan con esta característica la temperatura del agua debe utilizarse desde los 37- 40 °C, o a tolerancia del umbral del usuario con un límite de 45 °C, su tiempo de aplicación varía según la técnica entre 10´ a 20´ minutos, sus acciones vasodilatadoras generan efectos analgésicos, relajantes y de sedación, por lo cual están indicadas en contracturas y espasmos musculares, estrés, cansancio, insomnio y afecciones reumáticas. Estarán contraindicadas en personas con insuficiencia venosa, lesiones agudas inflamatorias y mujeres embarazadas en las que la temperatura no debe superar los 37,8 °C.
 
         .row.mt-3.mb-3.align-items-center(data-aos="fade-left")
           .col-auto
             img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
           .col.px-0.align-content-center
             h3.mb-0 Baños de contraste
-        p.my-3 En este tipo de baño se combinan las dos técnicas anteriores utilizando dos bañeras, una con agua caliente a 38 – 44 °C, en donde se sumergirá la zona durante 5 a 10 minutos y una con agua fría con agua a 10 -18°C, en donde se sumergirá la zona de 10 a 20 segundos, esta técnica se repetirá durante 30´minutos. Su combinación de acciones vasodilatadoras y vasoconstrictoras generan un efecto de gimnasia vascular. Por tanto, este baño está indicado en etapas subagudas de procesos inflamatorios, esguinces, afecciones vasculares periféricas, en las que las técnicas individuales de calor o frio estén contraindicadas. 
+        p.my-3 En este tipo de baño se combinan las dos técnicas anteriores utilizando dos bañeras, una con agua caliente a 38 – 44 °C, en donde se sumergirá la zona durante 5 a 10 minutos y una con agua fría con agua a 10 -18 °C, en donde se sumergirá la zona de 10 a 20 segundos, esta técnica se repetirá durante 30´minutos. Su combinación de acciones vasodilatadoras y vasoconstrictoras generan un efecto de gimnasia vascular. Por tanto, este baño está indicado en etapas subagudas de procesos inflamatorios, esguinces, afecciones vasculares periféricas, en las que las técnicas individuales de calor o frío estén contraindicadas. 
         b Sus contraindicaciones son específicas:
-        p.my-3 Microangiopatia secundaria a diabetes, enfermedad de <em>Buerger</em>, hipersensibilidad al frio e insuficiencia venosa si la temperatura supera los 40°C. (Mourelle,y Cols, 2009,p.80 – 81).
+        p.my-3 Microangiopatia secundaria a diabetes, enfermedad de <em>Buerger</em>, hipersensibilidad al frío e insuficiencia venosa si la temperatura supera los 40 °C. (Mourelle, y Cols, 2009,p.80 – 81).
         
     h5.blue_icon.my-3(data-aos="fade-left") Clasificación según el área de aplicación
 
@@ -69,7 +69,7 @@
           .row.px-3.pt-3
             .col-lg-6.mb-4.mb-md-0.align-content-center
               h4 Baños parciales
-                p.mt-4 Este tipo de baños se realizan en tinas especiales que se han adaptado para sumergir áreas específicas del cuerpo, las más comunes son los maniluvios; en donde se sumergen los brazos y las manos, los pediluvios; o bañeras para piernas y pies y el camino de marcha o pasillo de flebología en donde el usuario recibe chorros de agua a presión en diferentes niveles de los pies, piernas y muslos. (Mourelle,y cols, 2009,p.79).
+                p.mt-4 Este tipo de baños se realizan en tinas especiales que se han adaptado para sumergir áreas específicas del cuerpo, las más comunes son los maniluvios; en donde se sumergen los brazos y las manos, los pediluvios; o bañeras para piernas y pies y el camino de marcha o pasillo de flebología en donde el usuario recibe chorros de agua a presión en diferentes niveles de los pies, piernas y muslos. (Mourelle, y cols, 2009,p.79).
             .col-lg-6.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/img8.png', alt='Imagen decorativa')
@@ -102,7 +102,7 @@
                   p.mb-2 En éste tipo de baños se utiliza el agua en una o varias regiones del cuerpo, los más comunes son los de inmersión de medio cuerpo; en donde el nivel del agua llega hasta la región del ombligo, los de tres cuartos de cuerpo; en donde el nivel del agua llega hasta la base del cerebro y baños de asiento donde el usuario se ‘sienta’ en una tina especial sumergiendo los glúteos, el abdomen y la parte superior de los mulsos, dejando por fuera las extremidades.
               .row.justify-content-center(titulo="Baños parciales")
                 .col-12.align-content-center
-                  p.mb-2 Este tipo de baños se realizan en tinas especiales que se han adaptado para sumergir áreas específicas del cuerpo, las más comunes son los maniluvios; en donde se sumergen los brazos y las manos, los pediluvios; o bañeras para piernas y pies y el camino de marcha o pasillo de flebología en donde el usuario recibe chorros de agua a presión en diferentes niveles de los pies, piernas y muslos. (Mourelle,y cols, 2009,p.79).
+                  p.mb-2 Este tipo de baños se realizan en tinas especiales que se han adaptado para sumergir áreas específicas del cuerpo, las más comunes son los maniluvios; en donde se sumergen los brazos y las manos, los pediluvios; o bañeras para piernas y pies y el camino de marcha o pasillo de flebología en donde el usuario recibe chorros de agua a presión en diferentes niveles de los pies, piernas y muslos. (Mourelle, y cols, 2009,p.79).
               .row.justify-content-center(titulo="Escocesa o bitérmica")
                 .col-xl-6.col-lg-12.col-md-12.align-content-center
                   p.mb-2 Es una ducha especial en la que se genera variación en la temperatura del agua de forma alterna, su tiempo de aplicación es de 15 a 20 minutos con el fin de generar un efecto estimulante.
@@ -208,7 +208,7 @@
             )
 
           .bloque-texto-g__texto.p-4(data-aos="zoom-in")
-            p.mb-0 Las técnicas de hidroterapia sin el uso de presión de agua se constituyen en la base de la cura <em>Kneipp</em>, párroco alemán que desarrollo esta técnica, combinando baños de vapor, envolturas, fomentos, compresas, cataplasmas, lavados, duchas y chorros, arcillas, y otros como el paso de oca o andar descalzo sobre el césped húmedo. Es una terapia que se basa en la curación a través del bienestar, debe ser personalizada con un diagnóstico previo al tratamiento. (Mourelle,y Cols, 2009 ,p.101).
+            p.mb-0 Las técnicas de hidroterapia sin el uso de presión de agua se constituyen en la base de la cura <em>Kneipp</em>, párroco alemán que desarrollo esta técnica, combinando baños de vapor, envolturas, fomentos, compresas, cataplasmas, lavados, duchas y chorros, arcillas, y otros como el paso de oca o andar descalzo sobre el césped húmedo. Es una terapia que se basa en la curación a través del bienestar, debe ser personalizada con un diagnóstico previo al tratamiento. (Mourelle, y Cols, 2009 ,p.101).
 
     h5.blue_icon.my-3(data-aos="fade-left") Balneación con movilización de agua
 
@@ -224,7 +224,7 @@
 
         .row.justify-content-center.my-3  
           .col-lg-7.align-content-center
-            p Consisten en tinas de diversas formas y tamaños, que proyectan aire a través de mucho orificios, generando burbujas grandes y pequeñas que chocan contra la superficie de la piel, con efectos significativos a nivel de la vascularización, se pueden asociar a los procedimientos de estética y cosmetología en alteraciones como: la PEFE (paniculopatia edemato fibro esclerosa), post operatorios en etapa aguda, piernas cansadas, flacidez de la piel, disminución de tono muscular, edemas, entre otros.
+            p Consisten en tinas de diversas formas y tamaños, que proyectan aire a través de mucho orificios, generando burbujas grandes y pequeñas que chocan contra la superficie de la piel, con efectos significativos a nivel de la vascularización, se pueden asociar a los procedimientos de estética y cosmetología en alteraciones como: la PEFE (paniculopatia edemato fibro esclerosa), postoperatorios en etapa aguda, piernas cansadas, flacidez de la piel, disminución de tono muscular, edemas, entre otros.
           .col-lg-5.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema1/img19.png', alt='Imagen decorativa')
 
@@ -232,7 +232,7 @@
           .col-lg-5.col-md-8.align-content-center.order-lg-1.order-md-2
             img.my-3(src='@/assets/curso/temas/tema1/img20.png', alt='Imagen decorativa')
           .col-lg-7.align-content-center.order-lg-2.order-md-1
-            p Tanto la técnica de aeromasaje como la de hidromasaje buscan mejorar la circulación sanguínea y generar relajación, en las dos se emplea temperatura de agua de 35-40°C, según condiciones del usuario y alteración a tratar. Los principales usos en materia de estética están relacionados con sus efectos fisiológicos, es decir, gracias a sus acciones térmicas y mecánicas se puede manejar con propiedad la celulitis (P.E.F.E), edemas, sobrepeso y alteraciones relacionadas con el estrés. (Mourelle,y cols, 2009 ,p.179).
+            p Tanto la técnica de aeromasaje como la de hidromasaje buscan mejorar la circulación sanguínea y generar relajación, en las dos se emplea temperatura de agua de 35-40 °C, según condiciones del usuario y alteración a tratar. Los principales usos en materia de estética están relacionados con sus efectos fisiológicos, es decir, gracias a sus acciones térmicas y mecánicas se puede manejar con propiedad la celulitis (P.E.F.E), edemas, sobrepeso y alteraciones relacionadas con el estrés. (Mourelle, y cols, 2009 ,p.179).
 
     .row.justify-content-end.my-3  
       .col-lg-11
@@ -243,13 +243,13 @@
                 img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
               .col.px-0
                 h3.mb-0 Baño con aditivos
-            p.my-3 Son técnicas en las que se sumerge el cuerpo de forma parcial o general en agua a la que se le añade alguna sustancia que ejerce diferentes efectos sobre el organismo, estas sustancias son variadas y su uso depende de la alteración a tratar; siendo los más comunes, los aceites esenciales, las sales, las algas, los lodos, las flores y las plantas. Adicionalmente, existe dentro de esta técnica, la adición de gases como el oxígeno, con un efecto relajante y sedante, utilizado en tratamientos anti estrés, celulitis (PEFE), contracturas musculares, el ozono, como dilatador capilar, mejorando la circulación periférica y disminuyendo edema en post operatorio estético y las corrientes o energía como la galvánica con un estímulo circulatorio, antinflamatorio, utilizado en alteraciones que producen dolor, edema, obesidad, celulitis (PEFE), los ultrasónicos, a través de los cuales se logra la penetración de principios activos a la superficie cutánea.
+            p.my-3 Son técnicas en las que se sumerge el cuerpo de forma parcial o general en agua a la que se le añade alguna sustancia que ejerce diferentes efectos sobre el organismo, estas sustancias son variadas y su uso depende de la alteración a tratar; siendo los más comunes, los aceites esenciales, las sales, las algas, los lodos, las flores y las plantas. Adicionalmente, existe dentro de esta técnica, la adición de gases como el oxígeno, con un efecto relajante y sedante, utilizado en tratamientos antiestrés, celulitis (PEFE), contracturas musculares, el ozono, como dilatador capilar, mejorando la circulación periférica y disminuyendo edema en postoperatorio estético y las corrientes o energía como la galvánica con un estímulo circulatorio, antinflamatorio, utilizado en alteraciones que producen dolor, edema, obesidad, celulitis (PEFE), los ultrasónicos, a través de los cuales se logra la penetración de principios activos a la superficie cutánea.
             .row.mt-3.mb-3.align-items-center.justify-content-end(data-aos="fade-left")
               .col-auto
                 img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
               .col.px-0
                 h3.mb-0 Terapias en piscina
-            p.my-3 Las piscinas son estanques artificiales con instalaciones de diferentes formas y tamaños, varían desde los tanques individuales, hasta las de uso colectivo recreativo o terapéutico como es el caso de la piscina lúdica, en la cual se encuentran muchos tipos de chorros, a niveles diferentes por ejemplo en el cuello de pie, pierna, muslo, glúteo, espalda baja y media y chorros altos denominados como los cuello de cisne o cascadas de diferentes grosores, que manejan la espalda y las extremidades superiores.
+            p.my-3 Las piscinas son estanques artificiales con instalaciones de diferentes formas y tamaños, varían desde los tanques individuales, hasta las de uso colectivo recreativo o terapéutico como es el caso de la piscina lúdica, en la cual se encuentran muchos tipos de chorros, a niveles diferentes por ejemplo en el cuello de pie, pierna, muslo, glúteo, espalda baja y media y chorros altos denominados como los cuellos de cisne o cascadas de diferentes grosores, que manejan la espalda y las extremidades superiores.
             p.my-3 En las piscinas se pueden combinar diversas técnicas que se basan en las leyes o principios físicos del agua, como es el caso de la hidrocinesiterapia, a través de la cual se realizan ejercicios dentro de la misma, junto a otras más recientes como: el <em>Watsu</em> y el <em>Ai chi</em>, terapias de relajación que permiten un equilibrio entre el cuerpo y las emociones a través del agua.
           .col-xl-6.col-md-4
             img.my-3(src='@/assets/curso/temas/tema1/img21.png', alt='Imagen decorativa')
@@ -291,7 +291,7 @@
           .row.px-3.pt-3.justify-content-center
             .col-lg-7.mb-4.mb-md-0.align-content-center
               h4 Arcillas
-                p.mt-4 Las arcillas son minerales naturales que poseen variedad de colores, tienen diversas aplicaciones curativas que se han aplicado desde la antigüedad en forma de cataplasmas, pincelaciones e ingesta de la misma. Su uso cosmético estético se basa en sus propiedades de absorción al retener secreciones de la piel, por eso son muy usadas en tratamiento de pieles grasas, acnéicas, seborreicas, incluso en pieles envejecidas y con celulitis (PEFE). (Mourelle,y cols, 2009 ,p.142).
+                p.mt-4 Las arcillas son minerales naturales que poseen variedad de colores, tienen diversas aplicaciones curativas que se han aplicado desde la antigüedad en forma de cataplasmas, pincelaciones e ingesta de la misma. Su uso cosmético estético se basa en sus propiedades de absorción al retener secreciones de la piel, por eso son muy usadas en tratamiento de pieles grasas, acnéicas, seborreicas, incluso en pieles envejecidas y con celulitis (PEFE). (Mourelle, y cols, 2009 ,p.142).
             .col-lg-5.col-md-8.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/img25.png', alt='Imagen decorativa')
@@ -299,7 +299,7 @@
           .row.justify-content-center.px-3.pt-3
             .col-lg-9.mb-4.mb-md-0.align-content-center
               h4 Peloides
-                p.mt-4  “Productos naturales consistentes en la mezcla de agua mineral, comprendidas el agua de mar y de lago salado, con materias orgánicas o inorgánicas, resultantes de procesos geológicos o biológicos y usadas en forma de emplastos” (Mourelle,y cols, 2009 ,p.126). Su acción principal se deriva de la termoterapia por su capacidad de generar y mantener el calor generando efectos antiálgicos, antinflamatorios y descongestivos.<br>En cosmética se aprovechan sus propiedades de transmineralización al utilizar en tratamientos estéticos para piel seca, pieles átonas o desvitalizadas, pieles con alteraciones de la secreción sebácea, envejecimiento, alteraciones de la circulación y del tejido conjuntivo, celulitis (P.E.F.E). 
+                p.mt-4  “Productos naturales consistentes en la mezcla de agua mineral, comprendidas el agua de mar y de lago salado, con materias orgánicas o inorgánicas, resultantes de procesos geológicos o biológicos y usadas en forma de emplastos” (Mourelle, y cols, 2009 ,p.126). Su acción principal se deriva de la termoterapia por su capacidad de generar y mantener el calor generando efectos antiálgicos, antinflamatorios y descongestivos.<br>En cosmética se aprovechan sus propiedades de transmineralización al utilizar en tratamientos estéticos para piel seca, pieles átonas o desvitalizadas, pieles con alteraciones de la secreción sebácea, envejecimiento, alteraciones de la circulación y del tejido conjuntivo, celulitis (P.E.F.E). 
             .col-lg-3.col-md-6.align-content-center
               figure
                 img(src='@/assets/curso/temas/tema1/img26.png', alt='Imagen decorativa')
