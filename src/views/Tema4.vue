@@ -16,32 +16,32 @@
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Atención al cliente:</b>
-              .col-lg-9
+              .col-lg-9.mb-3
                 p.my-1 es un valor añadido para lograr la satisfacción del usuario frente a la competencia, teniendo en cuenta la similitud en la oferta de servicios de los centros de salud y bienestar.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Calidad:</b>
-              .col-lg-9
+              .col-lg-9.mb-3
                 p.my-1 es importante establecer estándares de mejoramiento continuo para la optimización de los servicios, de la calidad depende el éxito y rentabilidad del negocio teniendo como premisa la satisfacción del cliente.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Precio:</b>
-              .col-lg-9
+              .col-lg-9.mb-3
                 p.my-1 relacionado con la calidad de los servicios ofertados, recurso humano disponible e instalaciones locativas del centro de hidroterapia.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Innovación:</b>
-              .col-lg-9
+              .col-lg-9.mb-3
                 p.my-1 como se describe antes, la competencia es cada vez mayor, por lo tanto, los servicios ofrecidos deben contar con un sello de innovación que genere diferencia en este mercado.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Crecimiento y desarrollo sostenible:</b>
-              .col-lg-9
+              .col-lg-9.mb-3
                 p.my-1 respetar los recursos naturales como parte de la responsabilidad social, debe ser premisa de todos los actores involucrados en el uso de las diferentes fuentes de agua, ya sea natural, mineromedicinal o de mar.
             .row
               .col-lg-3.align-content-center
                 p.my-1 <b>Adelantos tecnológicos:</b>
-              .col-lg-9
+              .col-lg-9.mb-3
                 p.my-1 como herramienta que favorece la competitividad y la productividad empresarial, es importante renovar y actualizar las técnicas ofertadas de acuerdo al crecimiento constante del sector.
 
           .col-lg-2.col-md-4.align-content-center

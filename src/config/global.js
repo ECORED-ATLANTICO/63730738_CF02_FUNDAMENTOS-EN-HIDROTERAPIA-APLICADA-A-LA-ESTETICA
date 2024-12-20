@@ -91,7 +91,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/63730738_CF02_DU.pdf',
+        download: 'downloads/CF2_63730738_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -186,8 +186,7 @@ export default {
         'http://www.ergofisa.com/docencia/Hidroterapia.cap%2012.%202008.pdf ',
     },
     {
-      referencia:
-        'Mapfe. (2012). De Técnicas de hidroterapia: baños, chorros, duchas y envolturas.',
+      referencia: 'Saludmapfre.es. (2012). Técnicas de hidroterapia.',
       link:
         'https://www.salud.mapfre.es/cuerpo-y-mente/belleza-y-salud/cuerpo-y-mentehidroterapia-todas-las-tecnicas/',
     },
@@ -218,7 +217,7 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
@@ -234,14 +233,14 @@ export default {
             'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
-          nombre: 'Zulma Yurany Vianchá Rodríguez',
+          nombre: 'Janet Lucia Villalba Triana',
           cargo: 'Asesora pedagógica',
           centro:
             'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
-          nombre: 'Janet Lucia Villalba Triana',
-          cargo: 'Asesora pedagógica',
+          nombre: 'Zulma Yurany Vianchá Rodríguez',
+          cargo: 'Líder línea de producción',
           centro:
             'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },

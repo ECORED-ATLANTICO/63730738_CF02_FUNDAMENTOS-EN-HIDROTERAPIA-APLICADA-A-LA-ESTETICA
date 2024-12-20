@@ -22,7 +22,7 @@
         .row.justify-content-center.my-3  
           .col-lg-8.align-content-center
             p.my-3 Están considerados como centros en los cuales se emplean tratamientos para la salud y el bienestar basados en la utilización del agua mineromedicinal, pueden contar opcionalmente con hotel dentro de sus instalaciones.
-            p.my-3 En Europa se caracterizan por disponer de agua mineromedicinal aplicada con técnicas hidrotermales (agua termal con temperatura superior 4 °C de la media anual de la zona) y técnicas complementarias, debe contar con la presencia de personal de salud; médico, terapeutas, entre otros, (Mourelle, y Cols, 2009, p. 58), en Colombia no existe aún una normativa que los regule y/o clasifique, por esta razón se consideran más como centros termales.
+            p.my-3 En Europa se caracterizan por disponer de agua mineromedicinal aplicada con técnicas hidrotermales (agua termal con temperatura superior 4° C de la media anual de la zona) y técnicas complementarias, debe contar con la presencia de personal de salud; médico, terapeutas, entre otros, (Mourelle, y Cols, 2009, p. 58), en Colombia no existe aún una normativa que los regule y/o clasifique, por esta razón se consideran más como centros termales.
             p.my-3 Los tratamientos más comunes en el balneario están encaminados a la cura de enfermedades que se pueden tratar con el uso de agua mineromedicinal, como las asociadas con el reumatismo, aparato digestivo y sistema tegumentario o piel.
           .col-lg-4.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')
@@ -137,25 +137,25 @@
           table
             tbody  
               tr
-                th(rowspan="6")(style="background: #B5E6F7; border: 1px solid black") Centros de salud y bienestar
-                td(rowspan="3")(style="background: #48C1EC; border: 1px solid black") Ofertas basadas en el agua
-                td(style="background: white; border: 1px solid black") Balnearios
+                th(rowspan="6")(style="background: #B5E6F7; border: 1px solid black") Centros de salud y bienestar.
+                td(rowspan="3")(style="background: #48C1EC; border: 1px solid black") Ofertas basadas en el agua.
+                td(style="background: white; border: 1px solid black") Balnearios.
                 td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de agua mineromedicinal.<br>Se requiere la presencia de personal médico.
               tr 
-                td(style="background: white; border: 1px solid black") Centros de talasoterapia
+                td(style="background: white; border: 1px solid black") Centros de talasoterapia.
                 td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de agua de mar, clima marino, algas, arena, sol.
               tr
                 td(style="background: white; border: 1px solid black") Centros <em>Spa</em> y <em>Wellness.</em>
                 td(style="background: white; border: 1px solid black") Tratamiento basado en el uso de agua común y terapias complementarias de relajación y bienestar.
               tr
-                td(rowspan="3")(style="background: #48C1EC; border: 1px solid black") Ofertas no basadas en el uso del agua
-                td(style="background: white; border: 1px solid black") Centros de belleza
+                td(rowspan="3")(style="background: #48C1EC; border: 1px solid black") Ofertas no basadas en el uso del agua.
+                td(style="background: white; border: 1px solid black") Centros de belleza.
                 td(style="background: white; border: 1px solid black") Tratamientos de embellecimiento corporal.
               tr  
-                td(style="background: white; border: 1px solid black") Centros <em>Mind and Spirit</em>
+                td(style="background: white; border: 1px solid black") Centros <em>Mind and Spirit</em>.
                 td(style="background: white; border: 1px solid black") Tratamientos de recuperación física, mental y emocional, terapias alternativas complementarias.
               tr
-                td(style="background: white; border: 1px solid black") Oferta singular
+                td(style="background: white; border: 1px solid black") Oferta singular.
                 td(style="background: white; border: 1px solid black") Tratamientos basados en el uso de productos locales, vino, café, cacao.
         p Fuente: SENA (2014).
               
