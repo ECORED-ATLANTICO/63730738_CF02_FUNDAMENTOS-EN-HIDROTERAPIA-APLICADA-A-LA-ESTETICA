@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra la síntesis del componente formativo técnicas de hidroterapia y turismo de bienestar, teniendo en cuenta la hidroterapia y su clasificación, centro de salud y bienestar, turismo de bienestar y marketing hidrotermal.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

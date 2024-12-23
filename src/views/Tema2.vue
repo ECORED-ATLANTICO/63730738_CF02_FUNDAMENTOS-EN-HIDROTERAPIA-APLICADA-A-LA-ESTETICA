@@ -22,7 +22,7 @@
         .row.justify-content-center.my-3  
           .col-lg-8.align-content-center
             p.my-3 Están considerados como centros en los cuales se emplean tratamientos para la salud y el bienestar basados en la utilización del agua mineromedicinal, pueden contar opcionalmente con hotel dentro de sus instalaciones.
-            p.my-3 En Europa se caracterizan por disponer de agua mineromedicinal aplicada con técnicas hidrotermales (agua termal con temperatura superior 4° C de la media anual de la zona) y técnicas complementarias, debe contar con la presencia de personal de salud; médico, terapeutas, entre otros, (Mourelle, y Cols, 2009, p. 58), en Colombia no existe aún una normativa que los regule y/o clasifique, por esta razón se consideran más como centros termales.
+            p.my-3 En Europa se caracterizan por disponer de agua mineromedicinal aplicada con técnicas hidrotermales (agua termal con temperatura superior 4 °C de la media anual de la zona) y técnicas complementarias, debe contar con la presencia de personal de salud; médico, terapeutas, entre otros, (Mourelle, y Cols, 2009, p. 58), en Colombia no existe aún una normativa que los regule y/o clasifique, por esta razón se consideran más como centros termales.
             p.my-3 Los tratamientos más comunes en el balneario están encaminados a la cura de enfermedades que se pueden tratar con el uso de agua mineromedicinal, como las asociadas con el reumatismo, aparato digestivo y sistema tegumentario o piel.
           .col-lg-4.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')

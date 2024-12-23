@@ -19,7 +19,7 @@
 
         .row.justify-content-center.my-3  
           .col-xl-7.col-lg-7.align-content-center
-            p Para que cumplan con esta característica, el agua debe tener una temperatura por debajo de los 33° C, su tiempo de aplicación varía de acuerdo con cuanto más fría se encuentre el agua, se realizarán aplicaciones de 5´ a 30” segundos, según el caso, sus acciones vasoconstrictoras tienen un efecto analgésico importante y estimulante de las funciones orgánicas. Por lo anterior, sus principales indicaciones serán: disminución de dolor, inflamación, edema post trauma, espasmos musculares y sus contraindicaciones irán de acuerdo con la condición específica del usuario: problemas cardiovasculares, reumatismo, cistitis, colitis, diarrea.
+            p Para que cumplan con esta característica, el agua debe tener una temperatura por debajo de los 33 °C, su tiempo de aplicación varía de acuerdo con cuanto más fría se encuentre el agua, se realizarán aplicaciones de 5´ a 30” segundos, según el caso, sus acciones vasoconstrictoras tienen un efecto analgésico importante y estimulante de las funciones orgánicas. Por lo anterior, sus principales indicaciones serán: disminución de dolor, inflamación, edema post trauma, espasmos musculares y sus contraindicaciones irán de acuerdo con la condición específica del usuario: problemas cardiovasculares, reumatismo, cistitis, colitis, diarrea.
           .col-xl-5.col-lg-5.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
         
@@ -33,16 +33,16 @@
           .col-lg-5.col-md-8.align-content-center.order-lg-1.order-md-2
             img.my-3(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
           .col-lg-7.align-content-center.order-lg-2.order-md-1
-            p Para que cumplan con esta característica la temperatura del agua debe utilizarse desde los 37- 40° C, o a tolerancia del umbral del usuario con un límite de 45° C, su tiempo de aplicación varía según la técnica entre 10´ a 20´ minutos, sus acciones vasodilatadoras generan efectos analgésicos, relajantes y de sedación, por lo cual están indicadas en contracturas y espasmos musculares, estrés, cansancio, insomnio y afecciones reumáticas. Estarán contraindicadas en personas con insuficiencia venosa, lesiones agudas inflamatorias y mujeres embarazadas en las que la temperatura no debe superar los 37,8° C.
+            p Para que cumplan con esta característica la temperatura del agua debe utilizarse desde los 37- 40 °C, o a tolerancia del umbral del usuario con un límite de 45 °C, su tiempo de aplicación varía según la técnica entre 10´ a 20´ minutos, sus acciones vasodilatadoras generan efectos analgésicos, relajantes y de sedación, por lo cual están indicadas en contracturas y espasmos musculares, estrés, cansancio, insomnio y afecciones reumáticas. Estarán contraindicadas en personas con insuficiencia venosa, lesiones agudas inflamatorias y mujeres embarazadas en las que la temperatura no debe superar los 37,8 °C.
 
         .row.mt-3.mb-3.align-items-center(data-aos="fade-left")
           .col-auto
             img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
           .col.px-0.align-content-center
             h3.mb-0 Baños de contraste
-        p.my-3 En este tipo de baño se combinan las dos técnicas anteriores utilizando dos bañeras, una con agua caliente a 38 – 44° C, en donde se sumergirá la zona durante 5 a 10 minutos y una con agua fría con agua a 10 -18° C, en donde se sumergirá la zona de 10 a 20 segundos, esta técnica se repetirá durante 30´minutos. Su combinación de acciones vasodilatadoras y vasoconstrictoras generan un efecto de gimnasia vascular. Por tanto, este baño está indicado en etapas subagudas de procesos inflamatorios, esguinces, afecciones vasculares periféricas, en las que las técnicas individuales de calor o frío estén contraindicadas. 
+        p.my-3 En este tipo de baño se combinan las dos técnicas anteriores utilizando dos bañeras, una con agua caliente a 38 – 44 °C, en donde se sumergirá la zona durante 5 a 10 minutos y una con agua fría con agua a 10 -18 °C, en donde se sumergirá la zona de 10 a 20 segundos, esta técnica se repetirá durante 30´minutos. Su combinación de acciones vasodilatadoras y vasoconstrictoras generan un efecto de gimnasia vascular. Por tanto, este baño está indicado en etapas subagudas de procesos inflamatorios, esguinces, afecciones vasculares periféricas, en las que las técnicas individuales de calor o frío estén contraindicadas. 
         b Sus contraindicaciones son específicas:
-        p.my-3 Microangiopatia secundaria a diabetes, enfermedad de <em>Buerger</em>, hipersensibilidad al frío e insuficiencia venosa si la temperatura supera los 40° C. (Mourelle, y Cols, 2009,p.80 – 81).
+        p.my-3 Microangiopatia secundaria a diabetes, enfermedad de <em>Buerger</em>, hipersensibilidad al frío e insuficiencia venosa si la temperatura supera los 40 °C. (Mourelle, y Cols, 2009,p.80 – 81).
         
     h5.blue_icon.my-3(data-aos="fade-left") Clasificación según el área de aplicación
 
@@ -232,7 +232,7 @@
           .col-lg-5.col-md-8.align-content-center.order-lg-1.order-md-2
             img.my-3(src='@/assets/curso/temas/tema1/img20.png', alt='Imagen decorativa')
           .col-lg-7.align-content-center.order-lg-2.order-md-1
-            p Tanto la técnica de aeromasaje como la de hidromasaje buscan mejorar la circulación sanguínea y generar relajación, en las dos se emplea temperatura de agua de 35-40° C, según condiciones del usuario y alteración a tratar. Los principales usos en materia de estética están relacionados con sus efectos fisiológicos, es decir, gracias a sus acciones térmicas y mecánicas se puede manejar con propiedad la celulitis (P.E.F.E), edemas, sobrepeso y alteraciones relacionadas con el estrés. (Mourelle, y Cols, 2009 ,p.179).
+            p Tanto la técnica de aeromasaje como la de hidromasaje buscan mejorar la circulación sanguínea y generar relajación, en las dos se emplea temperatura de agua de 35-40 °C, según condiciones del usuario y alteración a tratar. Los principales usos en materia de estética están relacionados con sus efectos fisiológicos, es decir, gracias a sus acciones térmicas y mecánicas se puede manejar con propiedad la celulitis (P.E.F.E), edemas, sobrepeso y alteraciones relacionadas con el estrés. (Mourelle, y Cols, 2009 ,p.179).
 
     .row.justify-content-end.my-3  
       .col-lg-11
@@ -267,7 +267,7 @@
               .tarjeta-flip__contenedor
                 .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img23.png')})`}")
                 .tarjeta-flip__contenido.p-4.p-xl-5.align-content-center
-                  p.text-dark.mb-0.text-center Recinto en el que las paredes internas se encuentran cubiertas con una madera especial, en este se genera calor seco entre los 40 y 100° C, la idea de la técnica es que el usuario que ingrese aumente su temperatura corporal y logre la sudoración y eliminación de toxinas, debe alternarse con duchas de agua fría con el fin de no generar fatiga o deshidratación. En general, sus efectos sobre el organismo obedecen a su acción térmica, ejercitando el sistema cardiovascular, respiratorio, intestinal y nervioso. 
+                  p.text-dark.mb-0.text-center Recinto en el que las paredes internas se encuentran cubiertas con una madera especial, en este se genera calor seco entre los 40 y 100 °C, la idea de la técnica es que el usuario que ingrese aumente su temperatura corporal y logre la sudoración y eliminación de toxinas, debe alternarse con duchas de agua fría con el fin de no generar fatiga o deshidratación. En general, sus efectos sobre el organismo obedecen a su acción térmica, ejercitando el sistema cardiovascular, respiratorio, intestinal y nervioso. 
           .col-xl-5.col-lg-5.col-md-8.align-content-center.my-3
             .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
               .indicador--hover(v-if="indicadorTarjetaFlip")
