@@ -9,7 +9,7 @@
 
     h5.blue_icon.my-3(data-aos="fade-left") Concepto y características
 
-    p.my-3 Turismo de bienestar se define como “viajes con el objetivo primordial de realizar actividades encaminadas al cuidado, a sentirse bien recibiendo tratamientos alternativos y a descansar”. Banco de comercio exterior de Colombia S.A. (2013).
+    p.my-3 Turismo de bienestar se define como “viajes con el objetivo primordial de realizar actividades encaminadas al cuidado, a sentirse bien recibiendo tratamientos alternativos y a descansar”. Tourism & Leisure (2019).
 
     .row.justify-content-center.my-3  
       .col-lg-5.col-md-8.align-content-center
