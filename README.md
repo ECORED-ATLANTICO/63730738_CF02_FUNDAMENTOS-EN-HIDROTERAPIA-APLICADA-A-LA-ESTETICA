@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-atlantico.github.io/63730738_CF02_FUNDAMENTOS-EN-HIDROTERAPIA-APLICADA-A-LA-ESTETICA/#/](https://ecoredsena-atlantico.github.io/63730738_CF02_FUNDAMENTOS-EN-HIDROTERAPIA-APLICADA-A-LA-ESTETICA/#/)
+[https://ecored-atlantico.github.io/63730738_CF02_FUNDAMENTOS-EN-HIDROTERAPIA-APLICADA-A-LA-ESTETICA/](https://ecored-atlantico.github.io/63730738_CF02_FUNDAMENTOS-EN-HIDROTERAPIA-APLICADA-A-LA-ESTETICA/)
 
 #
 
